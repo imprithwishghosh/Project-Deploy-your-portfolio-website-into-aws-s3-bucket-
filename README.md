@@ -12,3 +12,4 @@ in this project we will deploy our wedsite into aws cloud platform specifically 
 
 # FOR MORE PLEASE CHECK MY HASHNODE VLOG WHERE I HAVE DEFINED THIS PROJECT FULLY STEP BY STEP .
 HASHNODE LINK IS IN MY GITHUB README PROFILE , PLEASE CHECK AND EXPLORE .
+https://www.linkedin.com/posts/prithish-ghosh-097207163_hey-everyone-do-have-even-know-that-you-activity-7095514939762642944-Rht7?utm_source=share&utm_medium=member_desktop
